@@ -31,13 +31,10 @@ Order tracking and delivery status updates
 
 Frontend: React Native (mobile), React.js (web)
 
-Backend: Node.js with Express.js
+Backend: Node.js 
 
-Database: MongoDB / MySQL
+Database: MySQL
 
-AR/Visualization: ARKit / ARCore integration
-
-Payment Integration: Stripe / Razorpay API
 
 8. Expected Outcome
 "A fully functional mobile and web platform where customers can browse, visualize, and purchase home décor items with a seamless shopping and payment experience."
