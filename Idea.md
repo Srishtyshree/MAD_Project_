@@ -2,7 +2,7 @@
 StylifyHome – Smart Home Décor Shopping App
 
 2. Your Name & Roll Number
-Srishty Shree & 2024-B-1462005
+Srishty Shree & 2024-B-1462005E
 
 3. Problem Statement
 "Finding and purchasing the right home décor items often requires visiting multiple stores or browsing through numerous unorganized websites. Customers struggle to visualize products in their homes, compare prices easily, and get personalized suggestions. This project aims to create a centralized, user-friendly platform for buying home décor and interior products, saving time and improving the shopping experience."
